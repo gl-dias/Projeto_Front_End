@@ -24,14 +24,17 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - How Much?: Não há custos materiais, apenas o custo do tempo dos integrantes.
 
 # Requisitos funcionais:
-- Barra de menu (cursos, projetos, Sobre nós, fale conosco)
-- Possuir lupa de buscar
-- Opção de login e senha de acesso
-- Banco de dados
-- Cards com os projetos no Home
-- Responsividade
-- Barra de pesquisa por nome e por curso
+- O sistema deve possuir barra de menu (cursos, projetos, Sobre nós, fale conosco)
+- O sistema deve possuir barra de busca
+- O sistema deve possuir Opção de login e senha de acesso
+- O sistema deve possuir Cards com os projetos no Home
+- O sistema deve possuir um filtro por linguagem
 - Informação da função da pessoa no projeto e duração
 
 # Requisitos não funcionais:
 - O Design básico seguindo a identidade visual da IBMEC
+- O sistema deve possuir um API
+- O sistema deve ter responsividade
+- O sistema deve possuir o e-mail dos participantes do projeto
+- O sistema de ve ser feito em JavaScript e React
+- Somente o administrador do sistema terá cadastro
