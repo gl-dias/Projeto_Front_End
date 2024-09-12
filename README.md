@@ -27,7 +27,9 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - O sistema deve possuir barra de menu (cursos, projetos, Sobre nós, fale conosco)
 - O sistema deve possuir barra de busca
 - O sistema deve listar projetos
+- Somente o administrador do sistema pode adicionar e alterar projetos
 - O sistema deve possuir filtro para busca
+- O sistema deve possuir um botão para redefinir os filtros
 - O Sistema deve possuir informação da função da pessoa no projeto e duração
 - O sistema deve possuir o e-mail dos participantes do projeto
 
