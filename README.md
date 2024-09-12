@@ -39,3 +39,12 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - O sistema deve ter responsividade
 - O sistema deve ser feito em JavaScript e React
 - Somente o administrador do sistema terá cadastro
+
+-------------------------------------------------------------
+#Detalhamento dos requisitos (tudo que o cliente precisa para acessar o site)
+
+#Casos de uso de sistema: (fazer uma pasta para cada caso de uso):
+### (motivo pra que o usuário irá usar o sistema. Possui atores[usuários ou perfil de usuários] - usar verbos no infinitivo)
+### (Descrição- detalhamento sem formato estabelecido)
+### (pré-condições)
+### (Fluxo - "usuário clica na barra de pesquisa e digita o nome do aluno ou nome do projeto. -Usuário clica no projeto ou aluno para saber mais informações.
