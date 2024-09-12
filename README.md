@@ -26,15 +26,14 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 # Requisitos funcionais:
 - O sistema deve possuir barra de menu (cursos, projetos, Sobre nós, fale conosco)
 - O sistema deve possuir barra de busca
-- O sistema deve possuir Opção de login e senha de acesso
 - O sistema deve possuir Cards com os projetos no Home
-- O sistema deve possuir um filtro por linguagem
-- Informação da função da pessoa no projeto e duração
+- O sistema deve possuir filtro para selecionar a linguagem
+- O Sistema deve possuir informação da função da pessoa no projeto e duração
 
 # Requisitos não funcionais:
 - O Design básico seguindo a identidade visual da IBMEC
 - O sistema deve possuir um API
 - O sistema deve ter responsividade
 - O sistema deve possuir o e-mail dos participantes do projeto
-- O sistema de ve ser feito em JavaScript e React
+- O sistema deve ser feito em JavaScript e React
 - Somente o administrador do sistema terá cadastro
