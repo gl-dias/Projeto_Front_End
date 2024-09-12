@@ -23,23 +23,15 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - How?: Acessando através da internet. 
 - How Much?: Não há custos materiais, apenas o custo do tempo dos integrantes.
 
-*Requisitos funcionais*:
--Barra de menu (cursos, projetos, Sobre nós, fale conosco)
+# Requisitos funcionais:
+- Barra de menu (cursos, projetos, Sobre nós, fale conosco)
+- Possuir lupa de buscar
+- Opção de login e senha de acesso
+- Banco de dados
+- Cards com os projetos no Home
+- Responsividade
+- Barra de pesquisa por nome e por curso
+- Informação da função da pessoa no projeto e duração
 
--Possuir lupa de buscar
-
--Opção de login e senha de acesso
-
--Banco de dados
-
--Cards com os projetos no Home
-
--Responsividade
-
--Barra de pesquisa por nome e por curso
-
-*Requisitos não funcionais*:
-
--O Design básico seguindo a identidade visual da IBMEC
-
--Informação da função da pessoa no projeto e duração
+# Requisitos não funcionais:
+- O Design básico seguindo a identidade visual da IBMEC
