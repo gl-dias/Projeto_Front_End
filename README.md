@@ -41,13 +41,14 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - Somente o administrador do sistema terá cadastro
 
 -------------------------------------------------------------
-#Detalhamento dos requisitos (tudo que o cliente precisa para acessar o site)
+*AULA 12/09/2024*
+### Detalhamento dos requisitos (tudo que o cliente precisa para acessar o site) *OK*
 
-#Casos de uso de sistema: (fazer uma pasta para cada caso de uso):
-### (motivo pra que o usuário irá usar o sistema. Possui atores[usuários ou perfil de usuários] - usar verbos no infinitivo)
-### (Descrição- detalhamento sem formato estabelecido)
-### (pré-condições)
-### (Fluxo )
+### Casos de uso de sistema: *(fazer uma pasta para cada caso de uso)*:
+   - (motivo pra que o usuário irá usar o sistema. Possui atores[usuários ou perfil de usuários] - usar verbos no infinitivo)
+   - (Descrição- detalhamento sem formato estabelecido)
+   - (pré-condições)
+### (Fluxo ) *falta: fluxo adm-site --> IMPORTANTE: O ADM É O ÚNICO QUE USA LOGUIN E SENHA. SOMENTE ELE EDITA, ADICIONA E EXCLUI ALUNOS E PROJETOS)
 ----------------------------------------------------------------
 
 # Detalhamento dos Requisitos
