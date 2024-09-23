@@ -4,27 +4,27 @@
 
 ### Fluxo Principal:
 1. **Login do Administrador**:
-- O administrador acessa o site.
-- Clica em "Login" na barra de menu.
-- Insere o e-mail e senha para autenticação.
-- O sistema valida as credenciais e redireciona o administrador para o painel de controle.
+- O administrador precisa acessar o site.
+- O administrador deve clicar em "Login" na barra de menu.
+- O administrador deve inserir o e-mail e senha para autenticação.
+- O sistema deve validar as credenciais e redireciona o administrador para o painel de controle.
 
 2. **Gerenciar Projetos**:
-- O administrador acessa o painel de controle.
-- Clica em "Gerenciar Projetos".
-- O sistema exibe uma lista de projetos existentes com opções para adicionar, editar ou excluir.
+- O administrador precisa acessar o painel de controle.
+- O administrador deve clicar em "Gerenciar Projetos".
+- O sistema deve exiber uma lista de projetos existentes com opções para adicionar, editar ou excluir.
 
 - **Adicionar Novo Projeto**:
-1. O administrador clica em "Adicionar Novo Projeto".
-2. Preenche o formulário com informações do projeto (nome, tecnologias usadas, descrição, etc.).
-3. O administrador clica em "Salvar".
-4. O sistema adiciona o projeto à lista e exibe uma confirmação.
+1. O administrador precisa clicar em "Adicionar Novo Projeto".
+2. O administrador deve preencher o formulário com informações do projeto (nome, tecnologias usadas, descrição, etc.).
+3. O administrador precisa clicar em "Salvar".
+4. O sistema deve adicionar o projeto à lista e exibe uma confirmação.
 
 - **Editar Projeto**:
-1. O administrador clica no projeto desejado.
-2. O sistema exibe o formulário de edição com informações atuais do projeto.
-3. O administrador faz as alterações necessárias e clica em "Salvar Alterações".
-4. O sistema atualiza o projeto e exibe uma confirmação.
+1. O administrador precisa clicar no projeto desejado.
+2. O sistema deve exibir o formulário de edição com informações atuais do projeto.
+3. O administrador deve fazer as alterações necessárias e clica em "Salvar Alterações".
+4. O sistema deve atualizar o projeto e exibir uma confirmação.
 
 - **Excluir Projeto**:
 1. O administrador clica no projeto desejado.
