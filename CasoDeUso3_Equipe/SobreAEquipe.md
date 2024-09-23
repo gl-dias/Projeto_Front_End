@@ -6,3 +6,9 @@
 1. O cliente precisa clicar em "Sobre Nós" na barra de menu.
 2. O sistema deve exibir uma página com a equipe de desenvolvimento, incluindo fotos, nomes, função, uma breve descrição e informação de contato.
 3. O cliente pode clicar em informações de contato para enviar um e-mail ou visitar perfis dos integrantes.
+
+**Pré-condições:**
+1. O cliente precisa ter uma conta logada no sistema para entrar em contato com os integrantes do(s) projetos
+
+**Pos-condições:**
+1. O cliente deve visualizar as informações de cada um dos integrantes do(s) projetos
