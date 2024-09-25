@@ -118,6 +118,17 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 2. O sistema deve exibir uma página com a equipe de desenvolvimento, incluindo fotos, nomes, função, uma breve descrição e informação de contato.
 3. Clicar em informações de contato para enviar e-mail ou visitar perfil do integrante.
 
+**Pré-condições**:
+
+- O cliente deve ter acesso ao site.
+- A página "Sobre Nós" deve estar disponível e visível no menu do site.
+- As informações sobre a equipe devem estar cadastradas no sistema.
+
+**Pós-condições**:
+
+- O cliente consegue visualizar as fotos, nomes, funções, descrições e contatos dos membros da equipe.
+- O cliente pode acessar informações de contato dos integrantes para enviar e-mails ou visitar seus perfis.
+
 ---
 
 ## Caso de Uso 4: Conhecimento sobre a Instituição IBMEC
@@ -133,9 +144,9 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 **Pré-condições**:
 
-O cliente deve ter acesso ao site.
-O menu "Institucional" e os cards das unidades devem estar corretamente cadastrados e visíveis no site.
-Os links para os sites institucionais dos polos devem estar ativos.
+- O cliente deve ter acesso ao site.
+- O menu "Institucional" e os cards das unidades devem estar corretamente cadastrados e visíveis no site.
+- Os links para os sites institucionais dos polos devem estar ativos.
 
 **Pós-condições**:
 
