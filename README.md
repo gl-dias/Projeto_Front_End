@@ -96,7 +96,7 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - **3.1.** Se o cliente digitar incorretamente o nome, o sistema sugere correções ou oferece resultados semelhantes.
 - **4.1.** O cliente pode escolher usar também os seguintes filtros: tecnologias, ferramentas, cursos, período dos projetos, unidades.
 
-### Pré-requesitos:
+**Pré-condições**:
 - O ícone da lupa para a busca deve estar visível e funcional.
 - O sistema deve exibir resultados com informações relevantes conforme o tipo de busca.
 - Se o cliente digitar incorretamente o nome, o sistema deve fornecer sugestões de correção ou resultados semelhantes.
@@ -113,7 +113,7 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 2. Clicar em "Projetos" na barra de menu.
 3. O sistema deve exibir todos os projetos em forma de cards, cada um com um título, tecnologia utilizada, uma breve descrição e um link com todos os alunos que participaram do projeto.
 
-### Pré-requesitos:
+**Pré-condições**:
 - O usuário deve possuir acesso à internet
 - O usuário deve clicar nos projetos e conseguir visualizar informações adicionais sobre eles 
 ---
