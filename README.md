@@ -131,6 +131,12 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 4. Clicar no card.
 5. O cliente é encaminhado para o site institucional do polo clicado.
 
+**Pré-condições**:
+
+O cliente deve ter acesso ao site.
+O menu "Institucional" e os cards das unidades devem estar corretamente cadastrados e visíveis no site.
+Os links para os sites institucionais dos polos devem estar ativos.
+
 **Pós-condições**:
 
 - O cliente visualiza as informações institucionais e os cards de cada unidade da faculdade.
