@@ -20,3 +20,9 @@
 - Caso o cliente digite incorretamente o nome, ele pode visualizar sugestões de busca.
 - **3.1.** Se o cliente digitar incorretamente o nome, o sistema deve sugerir correções ou oferecer resultados semelhantes.
 - **4.1.** O cliente pode escolher usar também os seguintes filtros: tecnologias, ferramentas, cursos, período dos projetos, unidades.
+
+### Pré-requesitos:
+- O ícone da lupa para a busca deve estar visível e funcional
+- O sistema deve exibir resultados com informações relevantes conforme o tipo de busca
+- Se o cliente digitar incorretamente o nome, o sistema deve fornecer sugestões de correção ou resultados semelhantes.
+- As informações devem ser apresentadas de maneira acessível a todos os usuários, incluindo aqueles com necessidades especiais.
