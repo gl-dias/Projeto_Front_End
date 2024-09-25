@@ -97,10 +97,18 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - **4.1.** O cliente pode escolher usar também os seguintes filtros: tecnologias, ferramentas, cursos, período dos projetos, unidades.
 
 **Pré-condições**:
-- O ícone da lupa para a busca deve estar visível e funcional.
-- O sistema deve exibir resultados com informações relevantes conforme o tipo de busca.
-- Se o cliente digitar incorretamente o nome, o sistema deve fornecer sugestões de correção ou resultados semelhantes.
-- As informações devem ser apresentadas de maneira acessível a todos os usuários, incluindo aqueles com necessidades especiais.
+
+- O cliente deve ter acesso ao site.
+- O sistema de busca deve estar funcionando corretamente e visível no site.
+- Os dados dos alunos e projetos devem estar cadastrados e disponíveis no banco de dados.
+- Os filtros de linguagem, tecnologias, e outros critérios devem estar configurados no sistema.
+
+**Pós-condições**:
+
+- O cliente visualiza os resultados da busca em formato de cards, conforme o tipo de busca (aluno ou projeto).
+- O cliente pode visualizar as informações detalhadas do aluno (incluindo contato) ou do projeto (com lista de participantes) ao clicar no card correspondente.
+- Se a busca tiver algum erro de digitação, o sistema oferece sugestões ou resultados semelhantes.
+- O cliente pode aplicar filtros adicionais para refinar a busca.
 
 ---
 
@@ -114,8 +122,17 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 3. O sistema deve exibir todos os projetos em forma de cards, cada um com um título, tecnologia utilizada, uma breve descrição e um link com todos os alunos que participaram do projeto.
 
 **Pré-condições**:
-- O cliente deve possuir acesso à internet
-- O cliente deve clicar nos projetos e conseguir visualizar informações adicionais sobre eles 
+
+- O cliente deve ter acesso ao site.
+- O menu "Projetos" deve estar visível e funcional.
+- Os projetos da faculdade IBMEC devem estar cadastrados e organizados no sistema.
+- Cada projeto deve conter título, tecnologia usada, breve descrição e a lista de alunos participantes.
+
+**Pós-condições**:
+
+- O cliente visualiza todos os projetos em formato de cards, com as respectivas tecnologias e descrições.
+- O cliente pode clicar nos cards para visualizar mais detalhes sobre o projeto e acessar a lista de todos os alunos que participaram dele.
+- 
 ---
 
 ## Caso de Uso 3: Conhecimento sobre a Equipe
