@@ -135,7 +135,7 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 **Pós-condições**:
 
-- O cliente consegue visualizar as fotos, nomes, funções, descrições e contatos dos membros da equipe.
+- O cliente deve conseguir visualizar as fotos, nomes, funções, descrições e contatos dos membros da equipe.
 - O cliente pode acessar informações de contato dos integrantes para enviar e-mails ou visitar seus perfis.
 
 ---
@@ -159,7 +159,7 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 **Pós-condições**:
 
-- O cliente visualiza as informações institucionais e os cards de cada unidade da faculdade.
+- O cliente pode visualiza as informações institucionais e os cards de cada unidade da faculdade.
 - Ao clicar no card de uma unidade, o cliente é redirecionado para o site institucional correspondente.
 - O cliente pode retornar à página inicial clicando na logo do site.
 
