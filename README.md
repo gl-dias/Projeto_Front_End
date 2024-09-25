@@ -73,26 +73,26 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 ---
 # FLUXO CLIENTE-SITE
-## Caso de Uso 1: Busca por Aluno ou Projeto
+## Caso de Uso 1: Buscar Aluno ou Projeto
 **Ator Primário:** Cliente (contratante)  
 **Objetivo:** O cliente quer buscar por um aluno ou projeto específico.
 
 ### Fluxo Principal:
-1. O cliente acessa o site.
-2. Clica no ícone da lupa.
-3. Digita o nome do aluno ou do projeto.
-4. Filtra a linguagem de programação/estruturação através de um checkbox.
-5. Clica no botão de 'Enter'.
+1. Acessar o site.
+2. Clicar no ícone da lupa.
+3. Digitar o nome do aluno ou do projeto.
+4. Filtrar a linguagem de programação/estruturação através de um checkbox.
+5. Clicar no botão de 'Enter'.
 6. **Se o cliente busca por um aluno:**  
-   O sistema exibe os resultados em formato de cards, contendo foto do aluno, nome, função e vínculo no projeto.
+   O sistema deve exibir os resultados em formato de cards, contendo foto do aluno, nome, função e vínculo no projeto.
 7. **Se o cliente busca por um projeto:**  
-   O sistema exibe os resultados em formato de cards, contendo nome do projeto, tecnologias usadas, descrição breve.
-8. Seleciona a melhor opção clicando no card correspondente.
+   O sistema deve exibir os resultados em formato de cards, contendo nome do projeto, tecnologias usadas, descrição breve.
+8. Selecionar a melhor opção clicando no card correspondente.
 9. O sistema redireciona o cliente para a página de detalhes do aluno ou projeto.
 10. O cliente visualiza informações de contato do aluno (se a busca foi por aluno), ou, se foi por projeto, ele visualiza uma lista de todos os alunos que participaram do projeto.
 
 ### Fluxo Alternativo:
-- Caso o cliente digite incorretamente o nome, ele pode visualizar sugestões de busca.
+- Se o cliente digitar incorretamente o nome, ele pode visualizar sugestões de busca.
 - **3.1.** Se o cliente digitar incorretamente o nome, o sistema sugere correções ou oferece resultados semelhantes.
 - **4.1.** O cliente pode escolher usar também os seguintes filtros: tecnologias, ferramentas, cursos, período dos projetos, unidades.
 
@@ -103,9 +103,9 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 **Objetivo:** O cliente deseja visualizar todos os projetos dos cursos da faculdade IBMEC.
 
 ### Fluxo Principal:
-1. O cliente acessa o site.
-2. Clica em "Projetos" na barra de menu.
-3. O sistema exibe todos os projetos em forma de cards, cada um com um título, tecnologia utilizada, uma breve descrição e um link com todos os alunos que participaram do projeto.
+1. Acessar o site.
+2. Clicar em "Projetos" na barra de menu.
+3. O sistema deve exibir todos os projetos em forma de cards, cada um com um título, tecnologia utilizada, uma breve descrição e um link com todos os alunos que participaram do projeto.
 
 ---
 
@@ -114,9 +114,9 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 **Objetivo:** O cliente deseja saber mais sobre o time que desenvolveu o site.
 
 ### Fluxo Principal:
-1. O cliente clica em "Sobre Nós" na barra de menu.
-2. O sistema exibe uma página com a equipe de desenvolvimento, incluindo fotos, nomes, função, uma breve descrição e informação de contato.
-3. O cliente pode clicar em informações de contato para enviar um e-mail ou visitar perfis dos integrantes.
+1. Clicar em "Sobre Nós" na barra de menu.
+2. O sistema deve exibir uma página com a equipe de desenvolvimento, incluindo fotos, nomes, função, uma breve descrição e informação de contato.
+3. Clicar em informações de contato para enviar e-mail ou visitar perfil do integrante.
 
 ---
 
@@ -125,10 +125,10 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 **Objetivo:** O cliente deseja saber mais sobre a instituição IBMEC.
 
 ### Fluxo Principal:
-1. O cliente acessa o site.
-2. Clica em "Institucional" na barra de menu.
-3. Visualiza cards de cada unidade da faculdade IBMEC.
-4. O cliente clica no card.
+1. Acessar o site.
+2. Clicar em "Institucional" na barra de menu.
+3. Visualizar cards de cada unidade da faculdade IBMEC.
+4. Clicar no card.
 5. O cliente é encaminhado para o site institucional do polo clicado.
 
 ---
