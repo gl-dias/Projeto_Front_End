@@ -131,6 +131,12 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 4. Clicar no card.
 5. O cliente é encaminhado para o site institucional do polo clicado.
 
+**Pós-condições**:
+
+- O cliente visualiza as informações institucionais e os cards de cada unidade da faculdade.
+- Ao clicar no card de uma unidade, o cliente é redirecionado para o site institucional correspondente.
+- O cliente pode retornar à página inicial clicando na logo do site.
+
 ---
 
 ## Comportamento Geral:
