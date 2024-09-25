@@ -20,6 +20,6 @@
 
 **Pós-condições**:
 
-- O cliente deve visualizar as informações institucionais e os cards de cada unidade da faculdade.
+- O cliente pode visualizar as informações institucionais e os cards de cada unidade da faculdade.
 - Ao clicar no card de uma unidade, o cliente é redirecionado para o site institucional correspondente.
 - O cliente pode retornar à página inicial clicando na logo do site.
