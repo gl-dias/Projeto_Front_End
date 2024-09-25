@@ -21,8 +21,16 @@
 - **3.1.** Se o cliente digitar incorretamente o nome, o sistema deve sugerir correções ou oferecer resultados semelhantes.
 - **4.1.** O cliente pode escolher usar também os seguintes filtros: tecnologias, ferramentas, cursos, período dos projetos, unidades.
 
-### Pré-requesitos:
-- O ícone da lupa para a busca deve estar visível e funcional.
-- O sistema deve exibir resultados com informações relevantes conforme o tipo de busca.
-- Se o cliente digitar incorretamente o nome, o sistema deve fornecer sugestões de correção ou resultados semelhantes.
-- As informações devem ser apresentadas de maneira acessível a todos os usuários, incluindo aqueles com necessidades especiais.
+**Pré-condições**:
+
+- O cliente deve ter acesso ao site.
+- O sistema de busca deve estar funcionando corretamente e visível no site.
+- Os dados dos alunos e projetos devem estar cadastrados e disponíveis no banco de dados.
+- Os filtros de linguagem, tecnologias, e outros critérios devem estar configurados no sistema.
+
+**Pós-condições**:
+
+- O cliente visualiza os resultados da busca em formato de cards, conforme o tipo de busca (aluno ou projeto).
+- O cliente pode visualizar as informações detalhadas do aluno (incluindo contato) ou do projeto (com lista de participantes) ao clicar no card correspondente.
+- Se a busca tiver algum erro de digitação, o sistema oferece sugestões ou resultados semelhantes.
+- O cliente pode aplicar filtros adicionais para refinar a busca.
