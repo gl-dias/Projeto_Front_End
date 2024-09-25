@@ -114,8 +114,8 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 3. O sistema deve exibir todos os projetos em forma de cards, cada um com um título, tecnologia utilizada, uma breve descrição e um link com todos os alunos que participaram do projeto.
 
 **Pré-condições**:
-- O usuário deve possuir acesso à internet
-- O usuário deve clicar nos projetos e conseguir visualizar informações adicionais sobre eles 
+- O cliente deve possuir acesso à internet
+- O cliente deve clicar nos projetos e conseguir visualizar informações adicionais sobre eles 
 ---
 
 ## Caso de Uso 3: Conhecimento sobre a Equipe
