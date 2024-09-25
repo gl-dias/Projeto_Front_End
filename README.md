@@ -132,7 +132,6 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 - O cliente visualiza todos os projetos em formato de cards, com as respectivas tecnologias e descrições.
 - O cliente pode clicar nos cards para visualizar mais detalhes sobre o projeto e acessar a lista de todos os alunos que participaram dele.
-- 
 ---
 
 ## Caso de Uso 3: Conhecimento sobre a Equipe
