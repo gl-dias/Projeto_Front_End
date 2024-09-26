@@ -105,7 +105,7 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 - O código deve ser revisado e cumprir com os padrões de qualidade.
 
 # Somente o administrador do sistema terá cadastro:
-- Somente administradores terão a capacidade de se cadastrar no sistema.
+- Somente administradores devem ter a capacidade de se cadastrar no sistema.
 - Usuários comuns não devem ter acesso ao formulário de cadastro.
 
 ---
