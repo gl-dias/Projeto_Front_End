@@ -53,23 +53,60 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 # Detalhamento dos Requisitos
 
-### Dispositivos compatíveis:
-- O cliente deve ter acesso a um dispositivo com conexão à internet (desktop, tablet ou smartphone).
+# Barra de Menu:
+- Descrição: O sistema deve apresentar uma barra de menu na parte superior da interface.
+- Itens do Menu:
+- Cursos: A Página deve listar todos os cursos disponíveis.
+- Projetos: Página deve listar todos os projetos em andamento.
+- Sobre Nós: A Página deve conter informações institucionais.
 
-### Navegadores suportados:
-- Google Chrome, Mozilla Firefox, Safari, Microsoft Edge (ou versões atualizadas de navegadores modernos).
+# Barra de Busca:
+- O sistema deve incluir uma barra de busca visível.
+- A barra de busca deve permitir que os usuários busquem por cursos e projetos.
+- A busca deve retornar resultados relevantes e ser capaz de lidar com erros de digitação.
 
-### Conexão de internet:
-- O site deve ser acessado via uma conexão de internet estável (preferencialmente de alta velocidade).
+# Listagem de Projetos:
+- O sistema deve listar todos os projetos disponíveis.
+- A listagem deve ser paginada se houver muitos projetos.
 
-### Compatibilidade com resoluções variadas:
-- O site deve ser responsivo para diferentes tamanhos de tela (computadores, tablets, smartphones).
+# Controle de Acesso para Administradores:
+- Somente usuários com permissão de administrador devem poder adicionar ou alterar projetos.
+- Usuários não-administradores não devem ver opções de adicionar ou editar.
 
-### Leitores de tela:
-- O site deve ser acessível para usuários com deficiências visuais, compatível com leitores de tela.
+# Filtro para Busca:
+- O sistema deve oferecer opções de filtro para refinar a busca de projetos.
+- Os filtros devem ser intuitivos e as combinações de filtros devem retornar resultados adequados.
 
-### Dark-mode:
-- O site deve possuir a opção de dark-mode para o usuário configurar a forma mais confortável de visualizar a tela.
+# Botão para Redefinir Filtros:
+- Ao clicar, todos os filtros devem ser removidos, retornando à visualização inicial.
+- O botão deve ser visível e fácil de usar.
+
+# Informação sobre Participantes do Projeto:
+- O sistema deve exibir a função de cada participante no projeto e a duração do envolvimento.
+- As informações devem ser claras e facilmente acessíveis na página do projeto.
+
+# E-mail dos Participantes:
+- O sistema deve armazenar e exibir os e-mails dos participantes de cada projeto.
+- A informação deve ser exibida na listagem de participantes, respeitando a privacidade e regulamentações de proteção de dados.
+
+# Design Básico:
+- O design do sistema deve seguir a identidade visual do IBMEC.
+
+# API:
+- O sistema deve possuir uma API para permitir interações externas.
+- A API deve ser testada.
+
+# Responsividade:
+- O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela.
+- O layout deve ser funcional e esteticamente agradável em dispositivos móveis, tablets e desktops.
+
+# Tecnologias Utilizadas:
+- O sistema deve ser desenvolvido utilizando JavaScript e React.
+- O código deve ser revisado e cumprir com os padrões de qualidade.
+
+# Cadastro de Administradores:
+- Somente administradores terão a capacidade de se cadastrar no sistema.
+- Usuários comuns não devem ter acesso ao formulário de cadastro.
 
 ---
 # FLUXO CLIENTE-SITE
