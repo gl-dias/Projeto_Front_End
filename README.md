@@ -53,58 +53,58 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 # Detalhamento dos Requisitos
 
-# Barra de Menu:
+# O sistema deve possuir barra de menu (cursos, projetos, Sobre nós, fale conosco):
 - Descrição: O sistema deve apresentar uma barra de menu na parte superior da interface.
 - Itens do Menu:
 - Cursos: A Página deve listar todos os cursos disponíveis.
 - Projetos: Página deve listar todos os projetos em andamento.
 - Sobre Nós: A Página deve conter informações institucionais.
 
-# Barra de Busca:
+# O sistema deve possuir barra de busca:
 - O sistema deve incluir uma barra de busca visível.
 - A barra de busca deve permitir que os usuários busquem por cursos e projetos.
 - A busca deve retornar resultados relevantes e ser capaz de lidar com erros de digitação.
 
-# Listagem de Projetos:
+# O sistema deve listar projetos:
 - O sistema deve listar todos os projetos disponíveis.
 - A listagem deve ser paginada se houver muitos projetos.
 
-# Controle de Acesso para Administradores:
+# Somente o administrador do sistema pode adicionar e alterar projetos:
 - Somente usuários com permissão de administrador devem poder adicionar ou alterar projetos.
 - Usuários não-administradores não devem ver opções de adicionar ou editar.
 
-# Filtro para Busca:
+# O sistema deve possuir filtro para busca:
 - O sistema deve oferecer opções de filtro para refinar a busca de projetos.
 - Os filtros devem ser intuitivos e as combinações de filtros devem retornar resultados adequados.
 
-# Botão para Redefinir Filtros:
+# O sistema deve possuir um botão para redefinir os filtros:
 - Ao clicar, todos os filtros devem ser removidos, retornando à visualização inicial.
 - O botão deve ser visível e fácil de usar.
 
-# Informação sobre Participantes do Projeto:
+# O Sistema deve possuir informação da função da pessoa no projeto e duração:
 - O sistema deve exibir a função de cada participante no projeto e a duração do envolvimento.
 - As informações devem ser claras e facilmente acessíveis na página do projeto.
 
-# E-mail dos Participantes:
+# O sistema deve possuir o e-mail dos participantes do projeto:
 - O sistema deve armazenar e exibir os e-mails dos participantes de cada projeto.
 - A informação deve ser exibida na listagem de participantes, respeitando a privacidade e regulamentações de proteção de dados.
 
-# Design Básico:
+# Design:
 - O design do sistema deve seguir a identidade visual do IBMEC.
 
-# API:
+# O sistema deve possuir um API:
 - O sistema deve possuir uma API para permitir interações externas.
 - A API deve ser testada.
 
-# Responsividade:
+# O sistema deve ter responsividade:
 - O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela.
 - O layout deve ser funcional e esteticamente agradável em dispositivos móveis, tablets e desktops.
 
-# Tecnologias Utilizadas:
+# O sistema deve ser feito em JavaScript e React:
 - O sistema deve ser desenvolvido utilizando JavaScript e React.
 - O código deve ser revisado e cumprir com os padrões de qualidade.
 
-# Cadastro de Administradores:
+# Somente o administrador do sistema terá cadastro:
 - Somente administradores terão a capacidade de se cadastrar no sistema.
 - Usuários comuns não devem ter acesso ao formulário de cadastro.
 
