@@ -1,6 +1,6 @@
 # Projeto_Front_End
 Grupo: VAGG <br/>
-Grupo da turma de Projeto Front-End 2024.2
+Grupo da turma de Projeto Front-End 2024.2 <br/>
 Link pro canvas: https://www.canva.com/design/DAGRzoYEADk/6Zh8A7w3VC_Fw0bRgwBl0w/view?utm_content=DAGRzoYEADk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 # Integrante:
