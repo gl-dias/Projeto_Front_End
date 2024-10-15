@@ -1,9 +1,9 @@
 # Projeto_Front_End
 Grupo: VAGG <br/>
 Grupo da turma de Projeto Front-End 2024.2 <br/>
-Link pro canvas: https://www.canva.com/design/DAGRzoYEADk/6Zh8A7w3VC_Fw0bRgwBl0w/view?utm_content=DAGRzoYEADk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Link para o canva: https://www.canva.com/design/DAGRzoYEADk/6Zh8A7w3VC_Fw0bRgwBl0w/view?utm_content=DAGRzoYEADk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-# Integrante:
+# Integrantes:
 - Juliana de Oliveira https://github.com/Julijolie/react-base-project
 - Gabriel Brião -> https://github.com/brioncio/react-base-project
 - Guilherme Dias -> https://github.com/gl-dias/react-base-project
@@ -43,14 +43,13 @@ afim de demonstrar a experiência, o conhecimento e os projetos de cada um.
 
 -------------------------------------------------------------
 *AULA 12/09/2024*
-### Detalhamento dos requisitos (tudo que o cliente precisa para acessar o site) *OK*
+### Detalhamento dos requisitos (tudo que o cliente precisa para acessar o site) 
 
-### Casos de uso de sistema: *(fazer uma pasta para cada caso de uso)*:
+### Casos de uso de sistema:
    - (motivo pra que o usuário irá usar o sistema. Possui atores[usuários ou perfil de usuários] - usar verbos no infinitivo)
    - (Descrição- detalhamento sem formato estabelecido)
    - (pré-condições)
-### (Fluxo ) *falta: fluxo adm-site --> IMPORTANTE: O ADM É O ÚNICO QUE USA LOGUIN E SENHA. SOMENTE ELE EDITA, ADICIONA E EXCLUI ALUNOS E PROJETOS)
-----------------------------------------------------------------
+ ----------------------------------------------------------------
 
 # Detalhamento dos Requisitos
 
