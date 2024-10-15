@@ -1,0 +1,146 @@
+/* Reset Básico */
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1rem;
+    font-family: "Open Sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #eaebee;
+}
+
+/* Menu geral */
+.menu {
+    background: #021859;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    height: 50px;
+}
+
+/* Logo */
+.logo {
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.logo img {
+    height: 100%;
+    object-fit: contain;
+}
+
+/* Menu items */
+.menu-items {
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.menu-items li {
+    margin: 0 1.5rem;
+}
+
+.menu-items li a {
+    padding: 5px;
+    text-align: center;
+    font-weight: 400;
+}
+
+/* Barra de pesquisa */
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 3px 8px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    width: 250px;
+    height: 30px;
+}
+
+.search-bar input {
+    padding: 3px;
+    font-size: 0.9rem;
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+}
+
+/* Ícone de lupa dentro da barra de pesquisa */
+.icon-button {
+    padding: 0;
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    margin-left: 5px;
+}
+
+.icon-button i {
+    font-size: 16px;
+    color: #002555;
+}
+
+/* Botão de modo claro */
+.dark-mode-button {
+    padding: 10px;
+    margin-right: 5rem;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    cursor: pointer;
+    transition: transform 0.5s ease; /* Animação de rotação */
+}
+
+.dark-mode-button i {
+    font-size: 18px;
+    transition: transform 0.2s ease, color 0.3s ease;
+}
+
+/* Cores para o ícone do modo escuro */
+.dark-mode-button i.fa-moon {
+    color: #000;
+}
+
+/* Cores do ícone do modo claro*/
+.dark-mode-button i.fa-sun {
+    color: #ccc;
+}
+
+/* Efeito de rotação ao clicar */
+.dark-mode-button.rotate i {
+    transform: rotate(360deg);
+}
+
+/* Modo claro */
+.dark-mode {
+    background-color: #dbe0eb;
+    color: #FFF;
+}
+
+.dark-mode .menu {
+    background-color: #d2ddf4;
+}
+
+.dark-mode a {
+    color: #000;
+}
+
+.dark-mode .dark-mode-button i {
+    color: #FFF;
+}
+
+.dark-mode .icon-button i {
+    color: #FFF;
+    visibility: visible;
+    opacity: 1;
+}
