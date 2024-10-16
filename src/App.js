@@ -1,6 +1,6 @@
 import React from 'react';
-import Menu from './components/menu/Menu';
-import Footer from './components/footer/Footer';
+import Menu from './components/Menu/Menu';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
