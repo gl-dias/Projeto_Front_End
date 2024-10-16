@@ -1,12 +1,12 @@
 import React from 'react';
-import Menu from './components/Menu/menu'; // Importando um componente de Menu
-//import Footer from './components/Footer'; // Importando um componente de Footer
+import Menu from './components/Menu';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
       <Menu/>
-      {/*<footer />*/}
+      <Footer/>
     </div>
   );
 }
