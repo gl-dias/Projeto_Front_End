@@ -16,9 +16,17 @@ html, body {
 .footer {
     background-color: #002f6c; 
     color: #ffffff; 
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
     font-family: 'Arial', sans-serif; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+    height: 50px;
   }
   
   .footer .container {
